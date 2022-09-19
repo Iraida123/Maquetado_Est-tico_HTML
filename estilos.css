@@ -1,0 +1,52 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+body
+{
+    background: white;
+    font-family: arial, georgia, serif;
+    text-align: start;     
+    color: black;
+    margin: 0%;  
+   /* padding-left: 450px; 
+    padding-right: 100px;*/
+
+    
+}
+
+article
+{
+    padding-left: 200px;
+    padding-right: 100px;
+    
+}
+
+header
+{
+   background-color: gray; 
+    width: 1100px;
+    height: 250px; 
+
+    padding-left: 200px; 
+    padding-right: 150px;
+}
+nav
+{
+    font-size: x-small;
+    color:darkslateblue
+    
+
+}
+footer
+{
+    background-color: gray; 
+
+    margin: 0px;
+    height: 30px;
+    width: 1500px;
+    padding-left: 200px; 
+    padding-right: 150px;
+}
